@@ -27,7 +27,7 @@
       JOIN_ROOM: 'join room',
       CREATE_ROOM: 'create room',
       NEW_QUESTION: 'new question'
-    }
+    };
   }
 
   /**
